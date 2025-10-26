@@ -1,6 +1,11 @@
 # Stranger Things Light Wall
-
 A Halloween project that recreates the iconic Stranger Things light wall using Arduino Nano and ESP32, allowing messages to be displayed by lighting up individual letters.
+Did this for daughter who loves Stranger Things.
+
+Attribution:
+Zach from Byte Sized Engieneering LLC for the shell code and original idea.
+Website: https://www.bytesizedengineering.com/
+YouTube: https://www.youtube.com/@bytesizedengineering
 
 ## Overview
 
